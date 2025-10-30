@@ -25,7 +25,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_TWITTER_URL": "",
   "VITE_SEO_SITE_NAME": "Zynt.perp",
   "VITE_SEO_SITE_DESCRIPTION": "Just for the candles",
-  "VITE_SEO_SITE_URL": "https://zynt.xyz",
+  "VITE_SEO_SITE_URL": "https://dex.orderly.network/zynt-9679/",
   "VITE_SEO_SITE_LANGUAGE": "en",
   "VITE_SEO_SITE_LOCALE": "en_US",
   "VITE_SEO_TWITTER_HANDLE": "",
