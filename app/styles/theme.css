@@ -1,6 +1,6 @@
 :root {
   --oui-font-family: 'Roboto', sans-serif;
-  --oui-font-size-base: 12px;
+  --oui-font-size-base: 13px;
 
   /* colors */
   --oui-color-primary: 88 53 169;
@@ -53,8 +53,8 @@
   --oui-color-trading-profit-contrast: 255 255 255;
 
   /* gradients */
-  --oui-gradient-primary-start: 123 85 206;
-  --oui-gradient-primary-end: 88 53 169;
+  --oui-gradient-primary-start: 88 53 169;
+  --oui-gradient-primary-end: 79 197 248;
 
   --oui-gradient-secondary-start: 120 81 210;
   --oui-gradient-secondary-end: 210 141 255;
@@ -78,23 +78,23 @@
   --oui-gradient-neutral-end: 38 41 46;
 
   /* rounded */
-  --oui-rounded-sm: 2px;
-  --oui-rounded: 4px;
-  --oui-rounded-md: 6px;
-  --oui-rounded-lg: 8px;
+  --oui-rounded-sm: 11px;
+  --oui-rounded: 12px;
+  --oui-rounded-md: 11px;
+  --oui-rounded-lg: 12px;
   --oui-rounded-xl: 12px;
   --oui-rounded-2xl: 16px;
   --oui-rounded-full: 9999px;
 
   /* spacing */
-  --oui-spacing-xs: 17.5rem;
-  --oui-spacing-sm: 18rem;
+  --oui-spacing-xs: 19.5rem;
+  --oui-spacing-sm: 19rem;
   --oui-spacing-md: 21.5rem;
   --oui-spacing-lg: 30rem;
-  --oui-spacing-xl: 33.75rem;
+  --oui-spacing-xl: 34rem;
 }
 
 html, body {
   font-family: 'Roboto', sans-serif !important;
-  font-size: 12px !important;
+  font-size: 13px !important;
 }
