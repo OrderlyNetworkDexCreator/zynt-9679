@@ -17,7 +17,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_APP_DESCRIPTION": "Just for the candles",
   "VITE_HAS_PRIMARY_LOGO": "true",
   "VITE_HAS_SECONDARY_LOGO": "true",
-  "VITE_ENABLED_MENUS": "Trading,Swap,Vaults,Portfolio,Markets,Rewards,Leaderboard",
+  "VITE_ENABLED_MENUS": "Trading,Swap,Vaults,Portfolio,Markets",
   "VITE_CUSTOM_MENUS": "",
   "VITE_ENABLE_CAMPAIGNS": "false",
   "VITE_TELEGRAM_URL": "https://t.me/+Rki_iNI3hF5iM2U0",
