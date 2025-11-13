@@ -1,6 +1,7 @@
 window.__RUNTIME_CONFIG__ = {
   "VITE_ORDERLY_BROKER_ID": "demo",
   "VITE_ORDERLY_BROKER_NAME": "Zynt",
+  "VITE_BROKER_EOA_ADDRESS": "0x6a047a2c4660d0c6132c6e93437d25acc212e7b9",
   "VITE_DISABLE_MAINNET": "false",
   "VITE_DISABLE_TESTNET": "false",
   "VITE_ORDERLY_MAINNET_CHAINS": "1,900900900,8453",
@@ -19,6 +20,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_HAS_SECONDARY_LOGO": "true",
   "VITE_ENABLED_MENUS": "Trading,Swap,Portfolio,Markets",
   "VITE_CUSTOM_MENUS": "",
+  "VITE_ENABLE_SERVICE_DISCLAIMER_DIALOG": "false",
   "VITE_ENABLE_CAMPAIGNS": "false",
   "VITE_TELEGRAM_URL": "https://t.me/+Rki_iNI3hF5iM2U0",
   "VITE_DISCORD_URL": "",
@@ -34,5 +36,6 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_AVAILABLE_LANGUAGES": "en,zh,ja,es,ko,vi,de,fr,ru,id,tr,it,pt,uk,pl,nl",
   "VITE_USE_CUSTOM_PNL_POSTERS": "false",
   "VITE_CUSTOM_PNL_POSTER_COUNT": "0",
-  "VITE_TRADING_VIEW_COLOR_CONFIG": "{\"upColor\":\"#02b1e9\",\"downColor\":\"#fb04f9\",\"pnlUpColor\":\"#00b2e7\",\"pnlDownColor\":\"#fd02fa\",\"chartBG\":\"#131722\"}"
+  "VITE_TRADING_VIEW_COLOR_CONFIG": "{\"upColor\":\"#02b1e9\",\"downColor\":\"#fb04f9\",\"pnlUpColor\":\"#00b2e7\",\"pnlDownColor\":\"#fd02fa\",\"chartBG\":\"#131722\"}",
+  "VITE_ANALYTICS_SCRIPT": ""
 };
