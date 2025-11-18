@@ -25,7 +25,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_TELEGRAM_URL": "https://t.me/+Rki_iNI3hF5iM2U0",
   "VITE_DISCORD_URL": "",
   "VITE_TWITTER_URL": "",
-  "VITE_SEO_SITE_NAME": "Zynt.perp",
+  "VITE_SEO_SITE_NAME": "Zynt.xyz",
   "VITE_SEO_SITE_DESCRIPTION": "Just for the candles",
   "VITE_SEO_SITE_URL": "https://dex.zynt.xyz",
   "VITE_SEO_SITE_LANGUAGE": "en",
