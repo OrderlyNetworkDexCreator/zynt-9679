@@ -37,5 +37,5 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_USE_CUSTOM_PNL_POSTERS": "false",
   "VITE_CUSTOM_PNL_POSTER_COUNT": "0",
   "VITE_TRADING_VIEW_COLOR_CONFIG": "{\"upColor\":\"#02b1e9\",\"downColor\":\"#fb04f9\",\"pnlUpColor\":\"#00b2e7\",\"pnlDownColor\":\"#fd02fa\",\"chartBG\":\"#131722\"}",
-  "VITE_ANALYTICS_SCRIPT": "<!-- Google tag (gtag.js) -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-7TGYGV8TKR\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-7TGYGV8TKR');\n</script>"
+  "VITE_ANALYTICS_SCRIPT": ""
 };
