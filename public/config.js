@@ -34,8 +34,8 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_SEO_THEME_COLOR": "#000000",
   "VITE_SEO_KEYWORDS": "zynt, dex, perps",
   "VITE_AVAILABLE_LANGUAGES": "en,zh,ja,es,ko,vi,de,fr,ru,id,tr,it,pt,uk,pl,nl",
-  "VITE_USE_CUSTOM_PNL_POSTERS": "false",
-  "VITE_CUSTOM_PNL_POSTER_COUNT": "0",
+  "VITE_USE_CUSTOM_PNL_POSTERS": "true",
+  "VITE_CUSTOM_PNL_POSTER_COUNT": "1",
   "VITE_TRADING_VIEW_COLOR_CONFIG": "{\"upColor\":\"#02b1e9\",\"downColor\":\"#fb04f9\",\"pnlUpColor\":\"#00b2e7\",\"pnlDownColor\":\"#fd02fa\",\"chartBG\":\"#131722\"}",
   "VITE_ANALYTICS_SCRIPT": ""
 };
