@@ -10,7 +10,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_PRIVY_APP_ID": "cmhijoxik005vky0ccq00emkv",
   "VITE_PRIVY_LOGIN_METHODS": "email,google,passkey",
   "VITE_PRIVY_TERMS_OF_USE": "",
-  "VITE_ENABLE_ABSTRACT_WALLET": "true",
+  "VITE_ENABLE_ABSTRACT_WALLET": "false",
   "VITE_DISABLE_EVM_WALLETS": "false",
   "VITE_DISABLE_SOLANA_WALLETS": "false",
   "VITE_WALLETCONNECT_PROJECT_ID": "4b6b2324c926989f42ead59a7b7f2ac5",
@@ -39,6 +39,6 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_TRADING_VIEW_COLOR_CONFIG": "{\"upColor\":\"#02b1e9\",\"downColor\":\"#fb04f9\",\"pnlUpColor\":\"#00b2e7\",\"pnlDownColor\":\"#fd02fa\",\"chartBG\":\"#131722\"}",
   "VITE_ANALYTICS_SCRIPT": "<!-- Google tag (gtag.js) -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-80LDHC8XY8\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-80LDHC8XY8');\n</script>",
   "VITE_SYMBOL_LIST": "",
-  "VITE_RESTRICTED_REGIONS": "",
+  "VITE_RESTRICTED_REGIONS": "United Arab Emirates,United States",
   "VITE_WHITELISTED_IPS": ""
 };
