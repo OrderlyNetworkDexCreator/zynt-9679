@@ -4,7 +4,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_BROKER_EOA_ADDRESS": "0x6a047a2c4660d0c6132c6e93437d25acc212e7b9",
   "VITE_DISABLE_MAINNET": "false",
   "VITE_DISABLE_TESTNET": "false",
-  "VITE_ORDERLY_MAINNET_CHAINS": "1,900900900,8453",
+  "VITE_ORDERLY_MAINNET_CHAINS": "1,900900900,8453,56",
   "VITE_ORDERLY_TESTNET_CHAINS": "421614,97,10143,11124,901901901",
   "VITE_DEFAULT_CHAIN": "900900900",
   "VITE_PRIVY_APP_ID": "cmhijoxik005vky0ccq00emkv",
@@ -39,6 +39,6 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_TRADING_VIEW_COLOR_CONFIG": "{\"upColor\":\"#02b1e9\",\"downColor\":\"#fb04f9\",\"pnlUpColor\":\"#00b2e7\",\"pnlDownColor\":\"#fd02fa\",\"chartBG\":\"#131722\"}",
   "VITE_ANALYTICS_SCRIPT": "<!-- Google tag (gtag.js) -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-80LDHC8XY8\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-80LDHC8XY8');\n</script>",
   "VITE_SYMBOL_LIST": "",
-  "VITE_RESTRICTED_REGIONS": "United Arab Emirates,United States",
+  "VITE_RESTRICTED_REGIONS": "United Arab Emirates,United States,Singapore",
   "VITE_WHITELISTED_IPS": ""
 };
