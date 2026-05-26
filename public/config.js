@@ -18,7 +18,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_APP_DESCRIPTION": "By Adults for Adults, Perpetual Futures Trading",
   "VITE_HAS_PRIMARY_LOGO": "true",
   "VITE_HAS_SECONDARY_LOGO": "true",
-  "VITE_ENABLED_MENUS": "Trading,Swap,Portfolio,Markets",
+  "VITE_ENABLED_MENUS": "Trading,Swap,Portfolio,Markets,Campaigns",
   "VITE_CUSTOM_MENUS": "Docs, https://zynt.gitbook.io/zynt-docs",
   "VITE_ENABLE_SERVICE_DISCLAIMER_DIALOG": "false",
   "VITE_ENABLE_CAMPAIGNS": "false",
